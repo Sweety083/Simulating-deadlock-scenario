@@ -1,4 +1,4 @@
-# EX 8: Simulating deadlock scenario
+ Simulating deadlock scenario
 ## Date: 
 ## AIM: 
 To simulate a scenario of deadlock in concurrent execution of transactions.
